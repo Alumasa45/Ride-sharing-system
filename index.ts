@@ -628,15 +628,7 @@ demonstrateRideSharingApp();
 
 
 
-    // // Register drivers
-    // app.registerDriver(driver);
     
-    // // Register passengers
-    // app.registerPassenger(passenger);
-    
-    // // Request a ride
-    // const pickup = new GeoLocation(40.7128, -74.0060);
-    // const dropoff = new GeoLocation(34.0522, -118
 
 
 
